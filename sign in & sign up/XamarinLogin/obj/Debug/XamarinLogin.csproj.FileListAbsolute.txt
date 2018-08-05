@@ -1,0 +1,97 @@
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\XamarinLogin.dll
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\XamarinLogin.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\com.companyname.xamarinlogin.apk
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\com.companyname.xamarinlogin-Signed.apk
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\XamarinLogin.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\XamarinLogin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\XamarinLogin.csproj.CopyComplete
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\XamarinLogin.dll
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\XamarinLogin.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\android\bin\com.companyname.xamarinlogin.apk
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\res\layout\main.xml
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\res\values\strings.xml
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\res\layout\sign_up.xml
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\R.cs.flag
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\R.txt
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\uploadflags.txt
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\Mono.Android.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\mscorlib.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\System.Core.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\System.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\System.Xml.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\Xamarin.Android.NUnitLite.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\System.Net.Http.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\bin\Debug\Mono.Security.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\linksrc\System.Core.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\linksrc\System.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\linksrc\Xamarin.Android.NUnitLite.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\Administrator\Desktop\sit 313\XamarinLogin\XamarinLogin\obj\Debug\linksrc\XamarinLogin.dll.mdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\XamarinLogin.dll
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\XamarinLogin.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\com.companyname.xamarinlogin.apk
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\com.companyname.xamarinlogin-Signed.apk
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\Xamarin.Android.Support.v4.dll
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\XamarinLogin.csprojAssemblyReference.cache
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\XamarinLogin.csproj.CoreCompileInputs.cache
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\XamarinLogin.csproj.CopyComplete
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\XamarinLogin.dll
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\XamarinLogin.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\android\bin\com.companyname.xamarinlogin.apk
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\res\layout\main.xml
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\res\values\strings.xml
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\res\mipmap-hdpi\icon.png
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\res\mipmap-mdpi\icon.png
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\res\mipmap-xhdpi\icon.png
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\res\mipmap-xxhdpi\icon.png
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\res\mipmap-xxxhdpi\icon.png
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\res\layout\sign_up.xml
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\R.cs.flag
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\R.txt
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\uploadflags.txt
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\Mono.Android.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\Mono.Security.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\mscorlib.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\System.ComponentModel.Composition.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\System.Core.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\System.Net.Http.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\System.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\System.Runtime.Serialization.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\System.ServiceModel.Internals.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\System.Xml.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\Xamarin.Android.NUnitLite.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\XamarinLogin.dll.mdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\android\assets\XamarinLogin.dll.mdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\android\assets\Xamarin.Android.NUnitLite.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\linksrc\XamarinLogin.dll.mdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\linksrc\Mono.Android.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\linksrc\Mono.Security.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\linksrc\mscorlib.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\linksrc\System.Core.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\linksrc\System.Net.Http.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\linksrc\System.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\linksrc\System.Xml.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\linksrc\Xamarin.Android.NUnitLite.pdb
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\bin\Debug\XamarinLogin.dll
+G:\A本地磁盘G\Github\Sit313-assignment-one-by-shiqi-jin\sign in & sign up\XamarinLogin\obj\Debug\linksrc\XamarinLogin.dll.mdb
